@@ -116,7 +116,7 @@ Submit a pull request.
 
 -- Members --
 
-Aryan Kumar aka MartinLegend24
-Abhinav Nirwan aka UnknownCodrr
-Aakash Sharma aka Aakash5268
+Aryan Kumar aka MartinLegend24, 
+Abhinav Nirwan aka UnknownCodrr, 
+Aakash Sharma aka Aakash5268, 
 Aman Kumar aka satoru-coder
